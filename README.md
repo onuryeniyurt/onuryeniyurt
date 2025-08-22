@@ -1,7 +1,7 @@
 ![Header](https://i.imgur.com/tWOSB9L.png)
 
 # 💫 About Me:
-Hi there, I'm Onur👋 <br/>
+![hi](https://i.imgur.com/EV7XBGO.gif) <br/>
 💻 Computer Engineering student from Istanbul  
 🧠 Passionate about Artificial Intelligence  
 📚 Currently diving into Natural Language Processing (NLP) 
@@ -41,4 +41,4 @@ Hi there, I'm Onur👋 <br/>
 <br></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onuryeniyurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
